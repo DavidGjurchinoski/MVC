@@ -5,5 +5,8 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>Class_1</ActiveDebugProfile>
+    <_SelectedScaffolderID>MvcControllerWithContextScaffolder</_SelectedScaffolderID>
+    <_SelectedScaffolderCategoryPath>root/Common</_SelectedScaffolderCategoryPath>
+    <WebStackScaffolding_ControllerDialogWidth>650</WebStackScaffolding_ControllerDialogWidth>
   </PropertyGroup>
 </Project>

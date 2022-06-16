@@ -1,0 +1,15 @@
+﻿@using PizzApp.Database
+@using PizzApp.Models.Entities
+@{
+    ViewData["Title"] = "Pizzas";
+}
+
+@model List<Pizza>
+
+@foreach(Pizza pizza in @Model) {
+    <div>
+        <h3>
+            <a asp-controller="Pizza" asp-action="Details" asp-route-id="@pizza.Id">@pizza.Name</a> - @pizza.Price - @pizza.Id
+        </h3>
+    </div>
+}
