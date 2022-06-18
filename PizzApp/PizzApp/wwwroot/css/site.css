@@ -16,3 +16,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+th, td {
+    padding: 10px;
+    border: solid rgb(0, 0, 0) 0.1em;
+}
+
+tbody > tr:nth-child(odd) {
+    background: rgb(128, 128, 128);
+}

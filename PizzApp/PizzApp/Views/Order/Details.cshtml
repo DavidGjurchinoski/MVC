@@ -1,0 +1,26 @@
+﻿@using PizzApp.Models.Entities
+
+@model Order
+
+<div>
+    <h1>
+        Order Details:
+    </h1>
+</div>
+<div>
+    <p><strong>Order ID:</strong> @Model.Id</p>
+    <p><strong>User ID:</strong> @Model.UserId</p>
+    <p><strong>User Address</strong> @Model.UserAddress</p>
+    <p><strong>Total Price:</strong> @Model.TotalPrice $</p>
+    <h3>
+        List of pizzas in Order:
+    </h3>
+    <ul>
+        @foreach(Pizza pizza in @Model.Pizzas)
+        {
+            <li>
+                <p><strong>Name:</strong> @pizza.Name <strong>Price:</strong> @pizza.Price</p>
+            </li>
+        }
+    </ul>
+</div>

@@ -4,16 +4,16 @@ using PizzApp.Models.Entities;
 
 namespace PizzApp.Controllers
 {
-    //[Route("home")]
+    [Route("home")]
     public class PizzaController : Controller
     {
-        //[Route("pizzas")]
+        [Route("pizzas")]
         public IActionResult Index()
         {
             return View(PizzaDatabase.Pizzas);
         }
 
-        //[Route("details")]
+        [Route("details")]
         public IActionResult Details(int Id)
         {
             Pizza pizza = PizzaDatabase.Pizzas.FirstOrDefault(x => x.Id == Id);
