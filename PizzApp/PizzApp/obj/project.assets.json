@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Production1O1\\.nuget\\packages\\": {}
+    "C:\\Users\\David.Gjurchinoski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Production1O1\\source\\repos\\DavidGjurchinoski\\MVC\\PizzApp\\PizzApp\\PizzApp.csproj",
+      "projectUniqueName": "C:\\Users\\David.Gjurchinoski\\source\\repos\\DavidGjurchinoski\\MVC\\MVC\\PizzApp\\PizzApp\\PizzApp.csproj",
       "projectName": "PizzApp",
-      "projectPath": "C:\\Users\\Production1O1\\source\\repos\\DavidGjurchinoski\\MVC\\PizzApp\\PizzApp\\PizzApp.csproj",
-      "packagesPath": "C:\\Users\\Production1O1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Production1O1\\source\\repos\\DavidGjurchinoski\\MVC\\PizzApp\\PizzApp\\obj\\",
+      "projectPath": "C:\\Users\\David.Gjurchinoski\\source\\repos\\DavidGjurchinoski\\MVC\\MVC\\PizzApp\\PizzApp\\PizzApp.csproj",
+      "packagesPath": "C:\\Users\\David.Gjurchinoski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\David.Gjurchinoski\\source\\repos\\DavidGjurchinoski\\MVC\\MVC\\PizzApp\\PizzApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Production1O1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\David.Gjurchinoski\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

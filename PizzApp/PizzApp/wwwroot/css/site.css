@@ -15,11 +15,14 @@ html {
 
 body {
   margin-bottom: 60px;
+
 }
 
 th, td {
     padding: 10px;
     border: solid rgb(0, 0, 0) 0.1em;
+    font-size: 1em;
+    font-weight: bolder;
 }
 
 tbody > tr:nth-child(odd) {
