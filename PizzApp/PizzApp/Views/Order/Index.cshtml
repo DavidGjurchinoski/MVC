@@ -1,6 +1,6 @@
 ﻿@using PizzApp.Models.Entities
 
-@model List<Order>
+@model List<OrderViewModel>
 
 <h1>
     List of all orders:
@@ -21,7 +21,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach(Order order in @Model)
+        @foreach(OrderViewModel order in @Model)
         {
             <tr>
                 <td>
@@ -30,7 +30,7 @@
                     </a>
                 </td>
                 <td>
-                    @order.UserAddress
+                    @order.OrderAddress
                 </td>
                 <td>
                     @order.TotalPrice $

@@ -4,12 +4,12 @@
     ViewData["Title"] = "Pizzas";
 }
 
-@model List<Pizza>
+@model List<PizzaViewModel>
 
-@foreach(Pizza pizza in @Model) {
+@foreach(PizzaViewModel pizza in @Model) {
     <div>
         <h3>
-            <a asp-controller="Pizza" asp-action="Details" asp-route-id="@pizza.Id">@pizza.Name</a> - @pizza.Price - @pizza.Id
+            <a asp-controller="Pizza" asp-action="Details" asp-route-id="@pizza.Id">@pizza.Name</a> - @pizza.Price
         </h3>
     </div>
 }

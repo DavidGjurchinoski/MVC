@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PizzApp.Database;
-using PizzApp.Models.Entities;
+using PizzApp.Models.Mappers;
+using PizzApp.Models.ViewModels;
 
 namespace PizzApp.Controllers
 {
@@ -15,7 +16,7 @@ namespace PizzApp.Controllers
         [Route("Details")]
         public IActionResult Details(int id)
         {
-            Order order = OrderDatabase.Orders.FirstOrDefault(x => x.Id == id);
+            OrderViewModel order = OrderDatabase.Orders.FirstOrDefault(x => x.Id == id).ToOrderViewModel();
       
             if(order is null)
             {
