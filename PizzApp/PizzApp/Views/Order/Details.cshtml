@@ -1,4 +1,5 @@
 ﻿@using PizzApp.Models.Entities
+@using PizzApp.Models.ViewModels
 
 @model OrderViewModel
 
@@ -10,7 +11,7 @@
 <div>
     <p><strong>Order ID:</strong> @Model.Id</p>
     <p><strong>User Name:</strong> @Model.User.Name</p>
-    <p><strong>User Address</strong> @Model.OrderAddress</p>
+    <p><strong>Order Address</strong> @Model.OrderAddress</p>
     <p><strong>Total Price:</strong> @Model.TotalPrice $</p>
     <h3>
         List of pizzas in Order:

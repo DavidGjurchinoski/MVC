@@ -10,7 +10,9 @@ namespace PizzApp.Controllers
         [Route("ListOrders")]
         public IActionResult Index()
         {
-            return View(OrderDatabase.Orders);
+            List<OrderViewModel> orders = OrderDatabase.Orders.Select(x => x.ToOrderViewModel()).ToList();
+
+            return View(orders);
         }
 
         [Route("Details")]

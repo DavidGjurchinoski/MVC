@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PizzApp",
+    "\\PizzApp\\PizzApp",
+    "\\PizzApp\\PizzApp\\Controllers",
+    "\\PizzApp\\PizzApp\\Views",
+    "\\PizzApp\\PizzApp\\Views\\Order",
+    "\\PizzApp\\PizzApp\\wwwroot",
+    "\\PizzApp\\PizzApp\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\PizzApp\\PizzApp\\Views\\Order\\Details.cshtml",
+  "PreviewInSolutionExplorer": false
+}

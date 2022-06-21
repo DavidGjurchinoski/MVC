@@ -12,7 +12,8 @@ namespace PizzApp.Models.Mappers
                 Id = order.Id,
                 Pizzas = order.Pizzas,
                 TotalPrice = order.TotalPrice,
-                User = order.User  
+                User = order.User,
+                OrderAddress = order.OrderAddress,
             };
         }
     }
