@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "88/Z36jv++G5JCk3DuW2JHeVrWBCIAU/rTek8p6wL7vzQU/LIiHP5PvBwdFPIjjC2nSr2mNaZj3LIlVTGgMEzw==",
+  "dgSpecHash": "W+JbalmJcuWrp+ejh3urDSFT8yR5iyHy1pQcQVvDZ83MVH1vxaXRJzUrBDw0w0hinrhTOH+Rb0c3rbqEu5fJ6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Production1O1\\source\\repos\\DavidGjurchinoski\\MVC\\PizzApp\\PizzApp\\PizzApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\David.Gjurchinoski\\source\\repos\\DavidGjurchinoski\\MVC\\MVC\\PizzApp\\PizzApp\\PizzApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David.Gjurchinoski\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\David.Gjurchinoski\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\David.Gjurchinoski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

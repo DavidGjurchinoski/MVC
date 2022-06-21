@@ -50,3 +50,5 @@ C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzApp\PizzApp\obj\De
 C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzApp\PizzApp\obj\Debug\net6.0\PizzApp.pdb
 C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzApp\PizzApp\obj\Debug\net6.0\PizzApp.genruntimeconfig.cache
 C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzApp\PizzApp\obj\Debug\net6.0\ref\PizzApp.dll
+C:\Users\David.Gjurchinoski\source\repos\DavidGjurchinoski\MVC\MVC\PizzApp\PizzApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\David.Gjurchinoski\source\repos\DavidGjurchinoski\MVC\MVC\PizzApp\PizzApp\obj\Debug\net6.0\PizzApp.csproj.CopyComplete
