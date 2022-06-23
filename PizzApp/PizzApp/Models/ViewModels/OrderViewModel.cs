@@ -12,6 +12,6 @@ namespace PizzApp.Models.ViewModels
 
         public int TotalPrice { get; set; }
 
-        public List<PizzaViewModel> Pizzas { get; set; }
+        public List<Pizza> Pizzas { get; set; }
     }
 }

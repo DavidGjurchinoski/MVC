@@ -11,9 +11,11 @@
   </div>
   <h3>List of pizzas:</h3>
   <ul>
-        @foreach(PizzaViewModel pizza in @Model.Pizzas.Select(x => x.ToPizzaListModel()))
+        @foreach(PizzaViewModel pizza in @Model.Pizzas.Select(x => x.ToPizzaListModel()).ToList())
         {
-            <li></li>
+            <li>
+                <p><strong>Name:</strong> @pizza.Name <strong>Price:</strong> @pizza.Price</p>
+            </li>
         }
     </ul>
 </div>
