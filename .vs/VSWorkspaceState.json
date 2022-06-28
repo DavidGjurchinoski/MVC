@@ -9,6 +9,6 @@
     "\\PizzApp\\PizzApp\\wwwroot",
     "\\PizzApp\\PizzApp\\wwwroot\\css"
   ],
-  "SelectedNode": "\\PizzApp\\PizzApp\\Views\\Order\\Details.cshtml",
+  "SelectedNode": "\\PizzApp\\PizzApp\\Controllers\\OrderController.cs",
   "PreviewInSolutionExplorer": false
 }
