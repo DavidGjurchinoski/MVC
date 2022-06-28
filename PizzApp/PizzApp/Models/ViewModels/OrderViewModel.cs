@@ -6,8 +6,6 @@ namespace PizzApp.Models.ViewModels
     {
         public int Id { get; set; }
 
-        public int UserId { get; set; }
-
         public User User { get; set; }
 
         public string OrderAddress { get; set; }

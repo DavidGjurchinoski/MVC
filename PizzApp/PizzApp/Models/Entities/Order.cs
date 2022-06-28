@@ -10,7 +10,6 @@ namespace PizzApp.Models.Entities
             UserId = userId;
             OrderAddress = userAddress;
             Pizzas = pizzas;
-            TotalPrice = GetTotalPrice(pizzas);
             User = UserDatabase.Users.FirstOrDefault(x => x.Id == userId);
         }
 
@@ -22,17 +21,11 @@ namespace PizzApp.Models.Entities
 
         public string OrderAddress { get; set; }
 
-        public int TotalPrice { get; set; }
-
         public List<Pizza> Pizzas { get; set; }
 
-        private int GetTotalPrice(List<Pizza> pizzas)
+        public int GetTotalPrice()
         {
-            int totalPrice = 0;
-
-            pizzas.ForEach(x => totalPrice += x.Price);
-
-            return totalPrice;
+            return Pizzas.Sum(x => x.Price);
         } 
     }
 }

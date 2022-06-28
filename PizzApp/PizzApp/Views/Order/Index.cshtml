@@ -7,36 +7,14 @@
     List of all orders:
 </h1>
 
-<table>
-    <thead>
-        <tr>
-            <th>
-                Order ID:
-            </th>
-            <th>
-                Address:
-            </th>
-            <th>
-                Total Price:
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach(OrderViewModel order in @Model)
-        {
-            <tr>
-                <td>
-                    <a asp-controller="Order" asp-action="Details" asp-route-id="@order.Id">
-                        @order.Id
-                    </a>
-                </td>
-                <td>
-                    @order.OrderAddress
-                </td>
-                <td>
-                    @order.TotalPrice $
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+<div class="card" style="max-width: 600px;">
+<div class="card-header">
+  Details
+</div>
+<ul class="list-group list-group-flush">
+@foreach(OrderViewModel order in @Model)
+{
+    <li class="list-group-item">@Html.Partial("../Shared/OrderPartials/_OrderItem.cshtml", order);</li>
+}
+</ul>
+</div>

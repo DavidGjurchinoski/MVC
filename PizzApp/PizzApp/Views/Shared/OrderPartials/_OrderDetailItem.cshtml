@@ -1,0 +1,21 @@
+﻿@using PizzApp.Models.Mappers
+@model OrderViewModel
+
+<div class="card" style="width: 22rem;">
+  <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Order Id: @Model.Id.</p>
+    <p class="card-text">Order Adress: @Model.OrderAddress.</p>
+    <p class="card-text">Order Total Price: @Model.TotalPrice.</p>
+    <p class="card-text">For user: @Model.User.Name.</p>
+  </div>
+  <h3>List of pizzas:</h3>
+  <ul>
+        @foreach(PizzaViewModel pizza in @Model.Pizzas.Select(x => x.ToPizzaListModel()).ToList())
+        {
+            <li>
+                <p><strong>Name:</strong> @pizza.Name <strong>Price:</strong> @pizza.Price</p>
+            </li>
+        }
+    </ul>
+</div>

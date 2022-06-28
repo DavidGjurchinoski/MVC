@@ -3,7 +3,6 @@
     "",
     "\\PizzApp",
     "\\PizzApp\\PizzApp",
-    "\\PizzApp\\PizzApp\\Controllers",
     "\\PizzApp\\PizzApp\\Views",
     "\\PizzApp\\PizzApp\\Views\\Order",
     "\\PizzApp\\PizzApp\\wwwroot",
