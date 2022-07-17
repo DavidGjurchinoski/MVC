@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PizzAppOnion/1.0.0": {
+        "dependencies": {
+          "PizzApp.Services": "1.0.0",
+          "PizzAppOnion.Contracts": "1.0.0",
+          "PizzAppOnion.Domain": "1.0.0",
+          "PizzAppOnion.Storage": "1.0.0"
+        },
+        "runtime": {
+          "PizzAppOnion.dll": {}
+        }
+      },
+      "PizzApp.Services/1.0.0": {
+        "dependencies": {
+          "PizzAppOnion.Contracts": "1.0.0",
+          "PizzAppOnion.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzApp.Services.dll": {}
+        }
+      },
+      "PizzAppOnion.Contracts/1.0.0": {
+        "runtime": {
+          "PizzAppOnion.Contracts.dll": {}
+        }
+      },
+      "PizzAppOnion.Domain/1.0.0": {
+        "dependencies": {
+          "PizzAppOnion.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "PizzAppOnion.Domain.dll": {}
+        }
+      },
+      "PizzAppOnion.Storage/1.0.0": {
+        "dependencies": {
+          "PizzApp.Services": "1.0.0",
+          "PizzAppOnion.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzAppOnion.Storage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzAppOnion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzAppOnion.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzAppOnion.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzAppOnion.Storage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

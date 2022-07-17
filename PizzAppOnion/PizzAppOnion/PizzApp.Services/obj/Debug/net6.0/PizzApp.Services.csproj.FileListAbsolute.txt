@@ -1,0 +1,17 @@
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzApp.Services.csproj.AssemblyReference.cache
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzApp.Services.AssemblyInfoInputs.cache
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzApp.Services.AssemblyInfo.cs
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzApp.Services.deps.json
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzApp.Services.dll
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzApp.Services.pdb
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Contracts.dll
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Domain.dll
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Contracts.pdb
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\bin\Debug\net6.0\PizzAppOnion.Domain.pdb
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzApp.Services.csproj.CopyComplete
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzApp.Services.dll
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\refint\PizzApp.Services.dll
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\PizzApp.Services.pdb
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzApp.Services\obj\Debug\net6.0\ref\PizzApp.Services.dll

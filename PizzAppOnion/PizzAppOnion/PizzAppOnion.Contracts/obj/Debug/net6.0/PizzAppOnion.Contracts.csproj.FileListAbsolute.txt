@@ -1,0 +1,12 @@
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\bin\Debug\net6.0\PizzAppOnion.Contracts.deps.json
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\bin\Debug\net6.0\PizzAppOnion.Contracts.dll
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\bin\Debug\net6.0\PizzAppOnion.Contracts.pdb
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\PizzAppOnion.Contracts.csproj.AssemblyReference.cache
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\PizzAppOnion.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\PizzAppOnion.Contracts.AssemblyInfoInputs.cache
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\PizzAppOnion.Contracts.AssemblyInfo.cs
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\PizzAppOnion.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\PizzAppOnion.Contracts.dll
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\refint\PizzAppOnion.Contracts.dll
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\PizzAppOnion.Contracts.pdb
+C:\Users\Production1O1\source\repos\DavidGjurchinoski\MVC\PizzAppOnion\PizzAppOnion\PizzAppOnion.Contracts\obj\Debug\net6.0\ref\PizzAppOnion.Contracts.dll
